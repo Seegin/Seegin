@@ -13,8 +13,13 @@ CS @ XMU → ISCAS / UCAS. Building the engineering layer between a learning alg
 
 ---
 
+<details>
+<summary>🐍 Contribution snake</summary>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seegin/Seegin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seegin/Seegin/output/github-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Seegin/Seegin/output/github-snake.svg" />
 </picture>
+
+</details>
